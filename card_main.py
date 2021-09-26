@@ -24,3 +24,7 @@ while True:
         break
     else:
         print("您的输入不正确，请重新选择")
+
+a = 1
+b = 2
+a, b = (b, a)
